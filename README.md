@@ -1,2 +1,2 @@
 # Huffman-compression-MSF
-In 
+Code was developed for compression of grayscale speckle images. 
