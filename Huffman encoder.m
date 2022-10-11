@@ -2,7 +2,6 @@ clear
 close all
 clc
 
-
 file_extension = '.bmp'; % Enter file extension of analyzed images
 input_folder_path = "D:\Experimental data\test_folder\input\"; 
 output_folder_path = "D:\Experimental data\test_folder\output\";
@@ -74,6 +73,7 @@ disp(['Total image size reduced to: ', int2str(total_compressed_file_size_all/to
 
 
 
+
 function code = Exact_8bit_length(code_table)
     code = sprintf('%d', code_table');
     while mod(length(code), 8) ~= 0
@@ -90,5 +90,3 @@ function code = Bin_to_dec(bit_code)
         counter = counter + 1;
     end
 end
-
-
