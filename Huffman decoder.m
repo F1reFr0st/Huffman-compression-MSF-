@@ -39,6 +39,7 @@ colorbar;
 
 
 
+
 function flat_image = Decompress_image(i, folder_path, d)
     bin_name = strcat(int2str(i), '_compressed_image.bin');
     bin_path = strcat(folder_path, bin_name);
@@ -62,6 +63,3 @@ function step = Input_step_size()
     answer = inputdlg(prompt, dlgtitle, dims, definput);
     step = str2double(answer{1});
 end
-
-
-
