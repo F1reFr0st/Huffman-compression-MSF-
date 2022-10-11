@@ -30,3 +30,5 @@ Original image size: 856 Kb
 Compressed image size: 719 Kb
 Image size reduced to: 84% 
 ```
+
+## Huffman decoder
