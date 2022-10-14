@@ -34,7 +34,7 @@ end
 activity_map = uint8(reshape(activity_map, [height, width]));
 imshow(activity_map);
 colormap('turbo');    
-caxis('auto')
+caxis('auto');
 colorbar;
 
 
