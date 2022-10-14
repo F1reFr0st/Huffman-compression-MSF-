@@ -34,3 +34,5 @@ Image size reduced to: 84%
 ## Huffman decoder
 
 ### Examples
+<img src="output1.png" alt="example" width="200"/>
+
