@@ -6,7 +6,7 @@
 # Compression (Huffman algorithm) and analysis (Modified structure function) of speckle images 
 ### Code was developed for compression of **_grayscale_** speckle images. 
 ## Huffman encoder
-The task is to create .bin files corresponding to speckle images with only one table of values and keys. Therefore, first, array consisting of average intensity values  of all images needs to be created. In the next step with implementation of **_huffmanenco_** function .bin file is created and saved. Simultaniously, information about original image and compressed file sizes is displayed. Finally, when all data is compressed, we  display total size of original and compressed files.
+The task is to create binary files corresponding to speckle images with only one table of values and keys. Therefore, first, array consisting of average intensity values  of all images needs to be created. In the next step with implementation of **_huffmanenco_** function binary file is created and saved. Simultaniously, information about original image and compressed file sizes is displayed. Finally, when all data is compressed, we  display total size of original and compressed files.
 ### Examples
 
 
@@ -41,7 +41,7 @@ Image size reduced to: 84%
 
 
 ## Huffman decoder
-The output of this code is so called activity map, that shows distribution of activity within the object. Modified structure function algorithm is implemented in oder to build acivity map. First, you need to enter parameter m, which affects image quality. By choosing this parameter, we choose step between analized .bin files of encoded speckle images. After decoding set of .bin files with m step, activity map is builded. Below are shown some examples of activity maps of different samples.
+The output of this code is so called activity map, that shows distribution of activity within the object. Modified structure function algorithm is implemented in oder to build acivity map. First, you need to enter parameter m, which affects image quality. By choosing this parameter, we choose step between analized binary files of encoded speckle images. After decoding set of .bin files with m step, activity map is builded. Below are shown some examples of activity maps of different samples.
 
 ### Examples 
 
@@ -54,4 +54,3 @@ The output of this code is so called activity map, that shows distribution of ac
 
 #### Coin
 <img src="output3.png" alt="example" width="200"/>
-
