@@ -2,6 +2,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/z9nit)
 
 
+
 # Compression (Huffman algorithm) and analysis (Modified structure function) of speckle images 
 ### Code was developed for compression of **_grayscale_** speckle images. 
 ## Huffman encoder
