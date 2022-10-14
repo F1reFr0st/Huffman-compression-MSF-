@@ -2,7 +2,8 @@ clear
 close all
 clc
 
-folder_path = "D:\Experimental data\test_folder\output\"; 
+file_extension = '.bmp'; % enter file extension of analyzed images
+folder_path = "d:\experimental data\test_folder\output\";  % maybe use relative path? say ".\output\"
 
 % Find and show number of .bin files in the folder
 image_files = dir(strcat(folder_path, '*.bin'));
