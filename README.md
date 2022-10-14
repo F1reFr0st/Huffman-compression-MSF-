@@ -32,7 +32,7 @@ Image size reduced to: 84%
 ```
 
 ## Huffman decoder
-The output of this code is so called activity map, that shows distribution of activity within the object. Modified structure function algorithm is implemented in oder to build acivity map. First, you need to enter parameter m, which affects image quality. By choosing this parameter, we choose step between analized .bin files of encoded speckle images. After decoding set of .bin files with m step, activity map is builded. Below are show some examples of different samples.
+The output of this code is so called activity map, that shows distribution of activity within the object. Modified structure function algorithm is implemented in oder to build acivity map. First, you need to enter parameter m, which affects image quality. By choosing this parameter, we choose step between analized .bin files of encoded speckle images. After decoding set of .bin files with m step, activity map is builded. Below are shown some examples of activity maps of different samples.
 
 ### Examples 
 
