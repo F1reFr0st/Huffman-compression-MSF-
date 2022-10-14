@@ -47,7 +47,7 @@ The output of this code is so called activity map, that shows distribution of ac
 
 
 #### 3D Printed Sample
-<img src="output1.png" alt="example" width="200"/>
+<img src="output2.png" alt="example" width="200"/>
 
 #### Single Board Computer
 <img src="output2.png" alt="example" width="400"/>
