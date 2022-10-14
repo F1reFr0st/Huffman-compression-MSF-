@@ -32,3 +32,5 @@ Image size reduced to: 84%
 ```
 
 ## Huffman decoder
+
+### Examples
