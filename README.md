@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-levchenko/)
+
 # Compression (Huffman algorithm) and analysis (Modified structure function) of speckle images 
 ### Code was developed for compression of **_grayscale_** speckle images. 
 ## Huffman encoder
@@ -49,3 +51,4 @@ The output of this code is so called activity map, that shows distribution of ac
 
 #### Coin
 <img src="output3.png" alt="example" width="200"/>
+
