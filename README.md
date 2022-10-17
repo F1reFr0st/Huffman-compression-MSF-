@@ -10,7 +10,7 @@ The task is to create binary files corresponding to speckle images with only one
 ### Examples
 
 
-<img src="example%201.bmp" alt="example" width="200"/>
+<img src="/images/example%201.bmp" alt="example" width="200"/>
 
 ```console
 1.bmp
@@ -20,7 +20,7 @@ Image size reduced to: 90%
 ```
 
 
-<img src="example%202.bmp" alt="example" width="400"/>
+<img src="/images/example%202.bmp" alt="example" width="400"/>
 
 ```console
 1.bmp
@@ -29,7 +29,7 @@ Compressed image size: 3213 Kb
 Image size reduced to: 36% 
 ```
 
-<img src="example%203.bmp" alt="example" width="200"/>
+<img src="/images/example%203.bmp" alt="example" width="200"/>
 
 ```console
 1.bmp
@@ -47,10 +47,10 @@ The output of this code is so called activity map, that shows distribution of ac
 
 
 #### 3D Printed Sample
-<img src="output1.png" alt="example" width="200"/>
+<img src="/images/output1.png" alt="example" width="200"/>
 
 #### Single Board Computer
-<img src="output2.png" alt="example" width="400"/>
+<img src="/images/output2.png" alt="example" width="400"/>
 
 #### Coin
-<img src="output3.png" alt="example" width="200"/>
+<img src="/images/output3.png" alt="example" width="200"/>
